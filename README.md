@@ -1,10 +1,92 @@
-# Mathematics of Machine Learning official code repository
+<h1 align="center">
+Mathematics of Machine Learning, First Edition</h1>
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-first-edition/9781837027873"> Mathematics of Machine Learning, First Edition</a>, published by Packt.
+</p>
 
-Hi there! This is the official repository of the [Mathematics of Machine Learning](https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027873) book.
+<h2 align="center">
+Master linear algebra, calculus, and probability for machine learning
+</h2>
+<p align="center">
+Tivadar Danka</p>
 
-## Getting started
+<p align="center">
+   <a href="https://packt.link/math" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://packt.link/free-ebook/9781837027873"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://packt.link/gbp/9781837027873"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870/"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<details open> 
+  <summary><h2>About the book</summary>
+<a href="https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026">
+<img src="https://content.packt.com/B32104/cover_image_small.jpg" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
+</a>
 
-You can run these Jupyter notebooks on remotely on cloud platforms like Google Colab, or locally on your machine. If you decide to run them virtually, you should create a virtual environment first:
+Mathematics of Machine Learning provides a rigorous yet accessible introduction to the mathematical underpinnings of machine learning, designed for engineers, developers, and data scientists ready to elevate their technical expertise. With this book, you’ll explore the core disciplines of linear algebra, calculus, and probability theory essential for mastering advanced machine learning concepts. 
+
+PhD mathematician turned ML engineer Tivadar Danka—known for his intuitive teaching style that has attracted 100k+ followers—guides you through complex concepts with clarity, providing the structured guidance you need to deepen your theoretical knowledge and enhance your ability to solve complex machine learning problems. Balancing theory with application, this book offers clear explanations of mathematical constructs and their direct relevance to machine learning tasks. Through practical Python examples, you’ll learn to implement and use these ideas in real-world scenarios, such as training machine learning models with gradient descent or working with vectors, matrices, and tensors. 
+
+ By the end of this book, you’ll have gained the confidence to engage with advanced machine learning literature and tailor algorithms to meet specific project requirements. 
+</details>
+<details open> 
+  <summary><h2>Key Learnings</summary>
+<ul>
+
+<li>Understand core concepts of linear algebra, including matrices, eigenvalues, and decompositions</li>
+
+<li>Grasp fundamental principles of calculus, including differentiation and integration</li>
+
+<li>Explore advanced topics in multivariable calculus for optimization in high dimensions</li>
+
+<li>Master essential probability concepts like distributions, Bayes' theorem, and entropy</li>
+
+<li>Bring mathematical ideas to life through Python-based implementations</li>
+
+</ul>
+
+  </details>
+
+<details open> 
+  <summary><h2>Chapters</summary>
+
+
+| Chapters | Colab | Kaggle | Gradient | Studio Lab |
+| :-------- | :-------- | :------- | :-------- | :-------- |
+| **Part 1: Linear Algebra** | | | | |
+| <ul><li>Chapter 1, Vectors and Vector Spaces(01-vectors-and-vector-spaces.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 2, The Geometric Structure of Vector Spaces(02-the-geometric-structure-of-vector-spaces.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/02-the-geometric-structure-of-vector-spaces.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/02-the-geometric-structure-of-vector-spaces.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/02-the-geometric-structure-of-vector-spaces.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/02-the-geometric-structure-of-vector-spaces.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 3, Linear Algebra in Practice(03-linear-algebra-in-practice.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/03-linear-algebra-in-practice.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/03-linear-algebra-in-practice.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/03-linear-algebra-in-practice.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/03-linear-algebra-in-practice.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 4, Linear Transformations</ul></li> | | | | |
+| <ul><li>Chapter 5, Matrices and Equations(05-matrices-and-equations.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/05-matrices-and-equations.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/05-matrices-and-equations.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/05-matrices-and-equations.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/05-matrices-and-equations.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 6, Eigenvalues and Eignevectors</ul></li> | | | | |
+| <ul><li>Chapter 7, Matrix Factorizations(07-matrix-factorizations.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/07-matrix-factorizations.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/07-matrix-factorizations.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/07-matrix-factorizations.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/07-matrix-factorizations.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 8, Matrices and Graphs</ul></li> | | | | |
+| **Part 2: Calculus** | | | | |
+| <ul><li>Chapter 9, Functions(01-functions.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/01-functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/01-functions.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/01-functions.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/01-functions.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 10, Numbers, Sequences, and Series(02-numbers-sequences-series.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/02-numbers-sequences-series.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/02-numbers-sequences-series.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/02-numbers-sequences-series.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/02-numbers-sequences-series.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 11, Topology, Limits, and Continuity</ul></li> | | | | |
+| <ul><li>Chapter 12, Differentiation(04-differentiation.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/04-differentiation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/04-differentiation.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/04-differentiation.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/04-differentiation.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 13, Optimization(05-optimization.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/05-optimization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/05-optimization.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/05-optimization.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/05-optimization.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 14, Integration(06-integration.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/06-integration.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/06-integration.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/06-integration.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-02-functions/06-integration.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| **Part 3: Multivariable Calculus"** | | | | |
+| <ul><li>Chapter 15, Multivariable Fucntions</ul></li> | | | | |
+| <ul><li>Chapter 16, Derivatives and Gradients</ul></li> | | | | |
+| <ul><li>Chapter 17, Optimization in Multiple Variables(03-optimization-in-multiple-variables.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-03-multivariable-functions/03-optimization-in-multiple-variables.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-03-multivariable-functions/03-optimization-in-multiple-variables.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-03-multivariable-functions/03-optimization-in-multiple-variables.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-03-multivariable-functions/03-optimization-in-multiple-variables.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| **Part 4: Probability Theory** | | | | |
+| <ul><li>Chapter 18, What is Probability(01-what-is-probability.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/01-what-is-probability.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/01-what-is-probability.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/01-what-is-probability.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/01-what-is-probability.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 19, Random Variables and Distributions(02-random-variables-and-distributions.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/02-random-variables-and-distributions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/02-random-variables-and-distributions.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/02-random-variables-and-distributions.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/02-random-variables-and-distributions.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+| <ul><li>Chapter 20, The Expected Value(03-expected-value.ipynb)</li></ul> | <a href="https://colab.research.google.com/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/03-expected-value.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/03-expected-value.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://gradient.run/notebook/github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/03-expected-value.ipynb"><img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Open In Gradient"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-04-probability-theory/03-expected-value.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+
+</details>
+
+
+<details open> 
+  <summary><h2>Requirements for this book</summary>
+
+  You can run these Jupyter notebooks on remotely on cloud platforms like Google Colab, or locally on your machine. If you decide to run them virtually, you should create a virtual environment first:
 
 ```
 virtualenv .venv
@@ -17,130 +99,27 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Table of contents
+  </details>
+    
 
-### Part 1. Linear algebra
 
-**Chapter 1. Vectors and vector spaces**
+<details> 
+  <summary><h2>Get to know Author</h2></summary>
 
-1.1. What is a vector space?  
-1.2. The basis  
-1.3. Vectors in practice  
+_Tivadar Danka_ is is an independent thinker, who believes that the truth value of any proposition is independent of the titles, awards, qualifications, and affiliations of the one asserting it. If you are looking for confirmation that you made a good purchase with this book, start at _Chapter 1_.<br>
+_Yes, that’s really a reference to the first chapter in the author bio; that’s where the important part begins._
 
-**Chapter 2. The geometric structure of vector spaces**
 
-2.1. Norms and distances  
-2.2. Inner products, angles, and lots of reasons to care about them  
 
-**Chapter 3. Linear algebra in practice**
+</details>
+<details> 
+  <summary><h2>Other Related Books</h2></summary>
+<ul>
 
-3.1. Vectors in NumPy  
-3.2. Matrices, the workhorses of linear algebra  
+  <li><a href="https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-first-edition/9781801819312">Machine Learning with PyTorch and Scikit-Learn, First Edition</a></li>
 
-**Chapter 4. Linear transformations**
+  <li><a href="https://www.packtpub.com/en-us/product/python-machine-learning-by-example-fourth-edition/9781835082225">Python Machine Learning By Example, Fourth Edition</a></li>
+ 
+</ul>
 
-4.1. What is a linear transformation?  
-4.2. Change of basis  
-4.3. Linear transformations in the Euclidean plane  
-4.4. Determinants, or how linear transformations affect volume  
-
-**Chapter 5. Matrices and equations**
-
-5.1. Linear equations  
-5.2. The LU decomposition  
-5.3. Determinants in practice  
-
-**Chapter 7. Matrix factorizations**
-
-7.1. Special transformations  
-7.2. Self-adjoint transformations and the spectral decomposition theorem  
-7.3. The Singular Value Decomposition  
-7.4. Orthogonal projections  
-7.5. Computing eigenvalues  
-7.6. The QR algorithm  
-
-**Chapter 8. Matrices and graphs**
-
-8.1. The directed graph of a nonnegative matrix  
-8.2. Benefits of the graph representation  
-8.3. The Frobenius normal form  
-
-### Part 2. Functions
-
-**Chapter 9. Functions**
-
-9.1. Functions in theory  
-9.2. Functions in practice  
-
-**Chapter 10. Numbers, sequences, and series**
-
-10.1. Numbers  
-10.2. Sequences  
-10.3. Series  
-
-**Chapter 11. Topology, limits, and continuity**
-
-11.1. Topology  
-11.2. Limits  
-11.3. Continuity  
-
-**Chapter 12. Differentiation**
-
-12.1. Differentiation in theory  
-12.2. Differentiation in practice  
-
-**Chapter 13. Optimization**
-
-13.1. Minima, maxima, and derivatives  
-13.2. The basics of gradient descent  
-13.3. Why does gradient descent work?  
-
-**Chapter 14. Integration**
-
-14.1. Integration in theory  
-14.2. Integration in practice  
-
-### Part 3. Multivariable functions
-
-**Chapter 15. Multivariable functions**
-
-15.1. What is a multivariable function?  
-15.2. Linear functions in multiple variables  
-15.3. The curse of dimensionality  
-
-**Chapter 16. Derivatives and gradients**
-
-16.1. Partial and total derivatives  
-16.2. Derivatives of vector-valued functions  
-
-**Chapter 17. Optimization in multiple variables**
-
-17.1. Multivariable functions in code  
-17.2. Minima and maxima, revisited  
-17.3. Gradient descent in its full form  
-
-### Part 4. Probability theory
-
-**Chapter 18. What is probability?**
-
-18.1. The language of thinking  
-18.2. The axioms of probability  
-18.3. Conditional probability  
-
-**Chapter 19. Random variables and distributions**
-
-19.1. Random variables  
-19.2. Discrete distributions  
-19.3. Real-valued distributions  
-19.4. Density functions  
-
-**Chapter 20. The expected value**
-
-20.1. Discrete random variables  
-20.2. Continuous random variables  
-20.3. Properties of the expected value  
-20.4. Variance  
-20.5. The Law of Large Numbers  
-20.6. Information theory  
-20.7. The Maximum Likelihood Estimation  
-
+</details>
