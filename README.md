@@ -1,5 +1,5 @@
 <h1 align="center">
-Mathematics of Machine Learning, First Edition</h1>
+Mathematics of Machine Learning</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027866"> Mathematics of Machine Learning</a>, published by Packt.
 </p>
 
