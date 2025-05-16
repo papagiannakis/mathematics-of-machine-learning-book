@@ -1,6 +1,6 @@
 <h1 align="center">
 Mathematics of Machine Learning, First Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-first-edition/9781837027873"> Mathematics of Machine Learning, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027866"> Mathematics of Machine Learning</a>, published by Packt.
 </p>
 
 <h2 align="center">
@@ -12,8 +12,8 @@ Tivadar Danka</p>
 <p align="center">
    <a href="https://packt.link/math" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://packt.link/free-ebook/9781837027873"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://packt.link/free-ebook/9781837027873"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a> -->
+<!--  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://packt.link/gbp/9781837027873"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870/"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
@@ -21,8 +21,8 @@ Tivadar Danka</p>
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026">
-<img src="https://content.packt.com/B32104/cover_image_small.jpg" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
+<a href="https://www.packtpub.com/en-us/product/mathematics-of-machine-learning-9781837027866">
+<img src="https://content.packt.com/B32104/cover_image_small.jpg" alt="" height="256px" align="right">
 </a>
 
 Mathematics of Machine Learning provides a rigorous yet accessible introduction to the mathematical underpinnings of machine learning, designed for engineers, developers, and data scientists ready to elevate their technical expertise. With this book, you’ll explore the core disciplines of linear algebra, calculus, and probability theory essential for mastering advanced machine learning concepts. 
