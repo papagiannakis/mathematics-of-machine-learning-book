@@ -106,8 +106,7 @@ pip install -r requirements.txt
 <details> 
   <summary><h2>Get to know Author</h2></summary>
 
-_Tivadar Danka_ is is an independent thinker, who believes that the truth value of any proposition is independent of the titles, awards, qualifications, and affiliations of the one asserting it. If you are looking for confirmation that you made a good purchase with this book, start at _Chapter 1_.<br>
-_Yes, that’s really a reference to the first chapter in the author bio; that’s where the important part begins._
+_Tivadar Danka_ is a mathematician by training, a machine learning engineer by profession, and an educator by passion. After finishing his PhD in 2016 (about the arcane subject of orthogonal polynomials), he switched career paths and has been working in machine learning ever since. His work includes applying deep learning to cell microscopy images to identify and phenotype cells, creating one of the most popular open source Python packages for active learning, building a full machine learning library from scratch, and collecting about a total of 100k followers on social media, all by posting high-quality educational content.
 
 
 
